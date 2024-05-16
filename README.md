@@ -3,7 +3,7 @@
 
 ### 
 
-Trabalho com Suporte de TI enquanto estudo Gestão de Dados na UFPI e Cibersegurança de forma autodidata
+Trabalho com Suporte de TI enquanto estudo Gestão de Dados na UFPI e Machine Learning de forma autodidata
  ###
  
 - ⚙️ Eu utilizo `.py`e `.sql`
