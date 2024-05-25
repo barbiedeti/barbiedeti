@@ -6,7 +6,7 @@
 Trabalho com Suporte de TI enquanto estudo Gestão de Dados na UFPI e Machine Learning de forma autodidata
  ###
  
-- ⚙️ Eu utilizo `.py`,`.sql` e`ipynb`
+- ⚙️ Eu utilizo `.py`,`.sql` e`.ipynb`
  - 💬 Compartilho minha rotina com frequência no twitter `@barbiedeti`
  - 🎥 Minha primeira graduação é em Cinema
   - 🏃🏻‍➡️ gosto de correr e nadar
