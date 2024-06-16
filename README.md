@@ -12,6 +12,6 @@ Trabalho com Suporte de TI enquanto estudo Gestão de Dados na UFPI e Machine Le
   - 🏃🏻‍➡️ gosto de correr e nadar
 
     ###
-    📬 Entre em contato através do email `kimalvesg@outlook.com` ou via linkedin `/in/barbiedeti`
-    💻 Acesse meu currículo no link `https://drive.google.com/file/d/1SP7_1hlKMTxlT0oXV8ktM7nVsv4FXmR8/view?usp=sharing`
+    - 📬 Entre em contato através do email `kimalvesg@outlook.com` ou via linkedin `/in/barbiedeti`
+    - 💻 Acesse meu currículo no link `https://drive.google.com/file/d/1SP7_1hlKMTxlT0oXV8ktM7nVsv4FXmR8/view?usp=sharing`
   
