@@ -1,4 +1,4 @@
-# 👋 Oi! Eu sou a Gabrielly, popurlamente conhecida como Kim ou, para os próximos, Kimi 😁
+# 👋 Oi! Eu sou a Gabrielly, popularmente conhecida como Kim ou, para os próximos, Kimi 😁
 
 - 🌸 Meus pronomes são ela/dela
 - 🧩 Sou uma pessoa autista
