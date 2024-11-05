@@ -1,12 +1,12 @@
-# 👋 Oi! Eu sou a Kim,
+# 👋 Oi! Eu sou a Gabrielly, popurlamente conhecida como Kim ou, para os próximos, Kimi 😁
 
-- 🌸 Eu uso nome social e meus pronomes são ela/dela ou elu/delu.
-- 🧩 Sou uma pessoa autista de suporte 2.
+- 🌸 Meus pronomes são ela/dela
+- 🧩 Sou uma pessoa autista
 
 ## Sobre mim
 
-- 🎓 Sou formada em Cinema, mas migrei para tecnologia e hoje sou graduanda de **Gestão de Dados** na Universidade Federal do Piauí.
-- 📊 Atualmente, sou pesquisadora em **Machine Learning** pela UFPI e em **Ciência de Dados na Saúde** pela UFC.
+- 🎓 Sou formada em Cinema, mas migrei para tecnologia e hoje estou graduando em **Gestão de Dados** pela Universidade Federal do Piauí, no modelo EAD.
+- 📊 Atualmente sou pesquisadora em **Machine Learning** pela UFPI e em **Ciência de Dados na Saúde** pela UFC.
 - 💻 As principais linguagens e ferramentas que uso no meu dia a dia incluem: `.py`, `.sql`, `.ipynb` e `r`.
 - 🏃🏻 Eu gosto de correr e nadar nas horas vagas.
 
