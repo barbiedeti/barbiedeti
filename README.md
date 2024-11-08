@@ -15,7 +15,7 @@
 Aqui estão alguns dos projetos que desenvolvi ou nos quais estou trabalhando:
 
 - 🛡 [**S.H.I.E.L.D.**](https://github.com/barbiedeti/SHIELD) - Um sistema de detecção e bloqueio de discurso de ódio em tempo real.
-- 🤖 **Classificação de Imagem de Documentoe** - Projeto de Aprendizado de Máquina para Document Intelligence utilizando Visão Computacional e PLN
+- 🤖 **Classificação de Imagem de Documentos** - Projeto de Aprendizado de Máquina para Document Intelligence utilizando Visão Computacional e PLN
 - 📈 **Análise de dados de saúde pública** - Projeto voltado para otimizar a internação de pacientes e reduzir readmissões hospitalares.
 
 ## Contato
